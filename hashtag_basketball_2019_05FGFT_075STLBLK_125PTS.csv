@@ -1,0 +1,479 @@
+PLAYER,TOTAL
+James Harden,15.03
+Damian Lillard,11.29
+Anthony Davis,11
+Karl-Anthony Towns ,10.69
+Kyrie Irving ,9.79
+Kawhi Leonard,9.76
+Trae Young,9.47
+Luka Doncic,9.22
+LeBron James,8.97
+Bradley Beal ,8.55
+Giannis Antetokounmpo,8.52
+Jusuf Nurkic,7.89
+Nikola Jokic,7.59
+John Collins,7.44
+Devin Booker,7.02
+Jayson Tatum,6.98
+Kyle Lowry,6.94
+Russell Westbrook ,6.92
+Joel Embiid,6.89
+Kristaps Porzingis,6.65
+Stephen Curry,6.5
+Zach LaVine,6.49
+Paul George,6.48
+Hassan Whiteside,6.42
+Andre Drummond,6.39
+Jimmy Butler ,6.16
+Brandon Ingram,6.1
+Chris Paul,5.97
+Nikola Vucevic,5.92
+Fred VanVleet,5.79
+D'Angelo Russell,5.63
+Jrue Holiday,5.63
+Pascal Siakam,5.53
+Ben Simmons ,5.47
+Khris Middleton,5.37
+Kemba Walker ,4.96
+LaMarcus Aldridge ,4.76
+Deandre Ayton,4.68
+Donovan Mitchell,4.64
+Bam Adebayo,4.64
+Jonathan Isaac ,4.55
+Rudy Gobert,4.54
+Clint Capela ,4.54
+Domantas Sabonis ,4.53
+Devonte' Graham,4.44
+Kevin Love,4.42
+CJ McCollum,4.34
+DeMar DeRozan,4.33
+Ricky Rubio,3.88
+Robert Covington,3.86
+Lonzo Ball,3.85
+De'Aaron Fox,3.71
+Tobias Harris,3.64
+Buddy Hield,3.58
+Gordon Hayward,3.56
+Jamal Murray ,3.47
+Shai Gilgeous-Alexander,3.43
+Jaylen Brown,3.4
+Kelly Oubre Jr. ,3.36
+Jaren Jackson Jr. ,3.36
+Andrew Wiggins,3.28
+Marcus Smart,3.15
+Terry Rozier,3.14
+Jonas Valanciunas,3.08
+Davis Bertans ,2.97
+T.J. Warren,2.92
+Danilo Gallinari,2.9
+Will Barton ,2.88
+Malcolm Brogdon ,2.83
+Brook Lopez ,2.83
+Evan Fournier,2.54
+Myles Turner,2.53
+Spencer Dinwiddie,2.47
+Ja Morant,2.45
+Al Horford,2.41
+Bojan Bogdanovic ,2.32
+Richaun Holmes,2.15
+Norman Powell,2.14
+Julius Randle,2.13
+Draymond Green,2.1
+Eric Bledsoe,1.96
+Dennis Schroder ,1.89
+Lou Williams,1.82
+Derrick Rose,1.71
+Nemanja Bjelica,1.71
+Collin Sexton,1.68
+Bogdan Bogdanovic,1.67
+Luke Kennard,1.63
+Thomas Bryant,1.61
+Dejounte Murray,1.54
+Serge Ibaka,1.48
+Mitchell Robinson,1.43
+Caris LeVert,1.39
+Lauri Markkanen,1.36
+Duncan Robinson,1.34
+Kevin Huerter,1.29
+Marcus Morris Sr.,1.28
+Aaron Gordon ,1.25
+Goran Dragic ,1.22
+Elfrid Payton,1.15
+Alec Burks,1.13
+OG Anunoby,1.08
+Montrezl Harrell ,1.05
+Jae Crowder,0.98
+Jarrett Allen,0.95
+Joe Ingles,0.79
+Carmelo Anthony,0.75
+Steven Adams,0.74
+Jabari Parker,0.69
+Cameron Payne,0.66
+Terrence Ross,0.62
+Larry Nance Jr.,0.61
+Derrick White,0.58
+Joe Harris,0.57
+Daniel Theis,0.52
+JJ Redick,0.51
+Tim Hardaway Jr.,0.49
+Mike Conley,0.49
+Marc Gasol,0.48
+Jeremy Lamb ,0.48
+Damion Lee,0.43
+Patrick Beverley ,0.4
+Tomas Satoransky,0.39
+Tristan Thompson,0.36
+Kendrick Nunn,0.35
+Josh Richardson,0.33
+Wendell Carter Jr.,0.32
+Zion Williamson,0.32
+Josh Hart,0.32
+Brandon Clarke,0.25
+P.J. Washington,0.23
+Mikal Bridges,0.22
+Derrick Favors,0.22
+Paul Millsap,0.19
+Christian Wood,0.16
+Kris Dunn ,0.16
+Danuel House Jr.,0.11
+Taurean Prince,0.11
+Shabazz Napier,0.11
+Dillon Brooks,0.1
+Miles Bridges,-0.02
+Markelle Fultz,-0.05
+DeAndre Jordan,-0.17
+P.J. Tucker,-0.18
+Nerlens Noel,-0.22
+Harrison Barnes,-0.24
+Marvin Bagley III ,-0.29
+Tyler Herro,-0.31
+Ish Smith,-0.31
+Marquese Chriss,-0.34
+Donte DiVincenzo,-0.35
+Maxi Kleber,-0.37
+Jordan Clarkson,-0.43
+Otto Porter Jr.,-0.45
+Justin Holiday,-0.47
+Victor Oladipo,-0.49
+Troy Brown Jr.,-0.5
+Thaddeus Young,-0.5
+Trevor Ariza,-0.51
+Glenn Robinson III ,-0.52
+Bruce Brown,-0.54
+Rui Hachimura,-0.62
+Garrett Temple,-0.64
+Dario Saric,-0.65
+Jeff Teague,-0.72
+Dorian Finney-Smith,-0.75
+Jerami Grant,-0.76
+Seth Curry ,-0.77
+Gary Harris ,-0.81
+Coby White,-0.88
+George Hill,-0.94
+Royce O'Neale,-0.94
+Reggie Jackson,-1
+Rodney Hood ,-1.02
+Rudy Gay,-1.02
+James Johnson,-1.09
+Willie Cauley-Stein,-1.12
+Gorgui Dieng,-1.13
+Danny Green,-1.15
+Patty Mills,-1.16
+Cedi Osman,-1.21
+Aron Baynes ,-1.26
+De'Andre Hunter,-1.27
+Dwight Powell ,-1.27
+Justise Winslow,-1.31
+Delon Wright,-1.32
+Cam Reddish,-1.33
+Blake Griffin,-1.41
+Kelly Olynyk,-1.44
+Cody Zeller,-1.46
+Jakob Poeltl,-1.48
+D.J. Augustin,-1.49
+Derrick Jones Jr.,-1.51
+Kent Bazemore,-1.53
+Darius Garland,-1.55
+Eric Gordon ,-1.6
+Ivica Zubac,-1.61
+Eric Paschall,-1.62
+JaVale McGee,-1.69
+Langston Galloway,-1.74
+De'Anthony Melton,-1.74
+Michael Porter Jr.,-1.78
+Aaron Holiday,-1.79
+Jordan McLaughlin,-1.83
+Kyle Kuzma,-1.85
+Cameron Johnson,-1.86
+Josh Okogie,-1.92
+Ben McLemore,-1.93
+Monte Morris,-1.96
+Jordan McRae,-1.97
+Michael Carter-Williams ,-1.97
+Isaiah Thomas,-1.99
+Enes Kanter,-2.02
+Malik Beasley,-2.03
+Ian Mahinmi,-2.07
+Robert Williams,-2.07
+JaMychal Green,-2.15
+Bryn Forbes ,-2.18
+Bobby Portis,-2.2
+Moritz Wagner,-2.23
+T.J. McConnell,-2.24
+Dion Waiters,-2.25
+Tony Snell,-2.27
+Kevin Porter Jr.,-2.28
+RJ Barrett,-2.29
+Gary Trent Jr.,-2.31
+Mo Bamba,-2.31
+Shake Milton,-2.33
+Tyus Jones ,-2.34
+Zach Collins,-2.34
+Alex Len,-2.41
+Svi Mykhailiuk,-2.42
+Rajon Rondo ,-2.45
+Dwight Howard ,-2.45
+Markieff Morris,-2.47
+Naz Reid,-2.47
+Keldon Johnson,-2.51
+Landry Shamet,-2.54
+Kentavious Caldwell-Pope,-2.57
+Kyle Anderson,-2.57
+Furkan Korkmaz,-2.59
+Jeff Green,-2.6
+Omari Spellman,-2.69
+Juan Toscano-Anderson,-2.71
+Ky Bowman,-2.72
+Cory Joseph,-2.72
+Andre Iguodala,-2.73
+Malik Monk,-2.74
+Nicolas Batum,-2.75
+Mychal Mulder,-2.76
+Matisse Thybulle,-2.79
+Trey Lyles,-2.8
+Chris Boucher,-2.81
+Frank Kaminsky,-2.82
+Doug McDermott,-2.84
+Josh Jackson,-2.86
+Dewayne Dedmon,-2.94
+Avery Bradley,-2.96
+Austin Rivers,-2.99
+Frank Ntilikina,-3
+Dragan Bender,-3.01
+Terence Davis,-3.02
+John Henson,-3.04
+DeAndre' Bembry,-3.08
+Brad Wanamaker,-3.13
+Rondae Hollis-Jefferson,-3.18
+Jarrett Culver,-3.22
+Moe Harkless,-3.22
+Reggie Bullock,-3.24
+Skal Labissiere,-3.24
+Marvin Williams,-3.26
+Mason Plumlee,-3.27
+Jalen Brunson ,-3.32
+Jake Layman,-3.33
+Bol Bol,-3.33
+Meyers Leonard,-3.33
+Pat Connaughton,-3.37
+Nicolo Melli,-3.39
+Ersan Ilyasova,-3.42
+Grayson Allen,-3.48
+Caleb Martin,-3.48
+Wesley Matthews ,-3.49
+Jaxson Hayes,-3.5
+Alex Caruso,-3.57
+J.J. Barea,-3.63
+Wilson Chandler,-3.63
+Chris Chiozza,-3.67
+Kyle Korver,-3.71
+Damian Jones,-3.74
+Harry Giles III,-3.74
+Jevon Carter,-3.76
+Sindarius Thornwell,-3.77
+Jahlil Okafor,-3.79
+E'Twaun Moore,-3.8
+Jordan Poole,-3.8
+Solomon Hill,-3.82
+Trey Burke,-3.84
+Patrick McCaw ,-3.84
+Eric Mika,-3.84
+Denzel Valentine,-3.86
+Bismack Biyombo,-3.87
+James Ennis III,-3.91
+Taj Gibson,-3.97
+Jeremiah Martin,-3.99
+Timothe Luwawu-Cabarrot,-4.03
+Isaac Bonga,-4.03
+Darius Bazley,-4.03
+CJ Miles,-4.05
+Gary Payton II,-4.06
+Al-Farouq Aminu ,-4.08
+Kenrich Williams,-4.08
+Torrey Craig,-4.09
+Chandler Hutchison ,-4.12
+Talen Horton-Tucker,-4.21
+Luke Kornet ,-4.25
+Jalen McDaniels,-4.27
+Luguentz Dort,-4.29
+Cody Martin,-4.32
+Brandon Knight,-4.33
+Daniel Gafford,-4.35
+Tyler Johnson,-4.35
+Drew Eubanks,-4.35
+Frank Mason,-4.36
+Mike Scott ,-4.37
+Shaquille Harrison,-4.38
+Kyle O'Quinn,-4.39
+Keita Bates-Diop,-4.44
+Anfernee Simons,-4.45
+David Nwaba ,-4.47
+Tony Bradley,-4.49
+Emmanuel Mudiay,-4.5
+Luka Samanic,-4.51
+Mario Hezonja,-4.57
+Damyean Dotson,-4.58
+Courtney Lee ,-4.6
+Isaiah Hartenstein,-4.64
+Wes Iwundu,-4.65
+Hamidou Diallo,-4.67
+Boban Marjanovic,-4.68
+Jeremy Pargo,-4.68
+Sterling Brown,-4.69
+Abdel Nader,-4.72
+Kelan Martin,-4.79
+Juancho Hernangomez,-4.79
+PJ Dozier,-4.85
+Georges Niang,-4.93
+Khem Birch,-4.95
+Brandon Goodwin,-4.98
+Lonnie Walker IV,-4.99
+Garrison Mathews ,-4.99
+Ryan Arcidiacono,-5
+Kevin Knox II,-5.01
+Wayne Ellington,-5.02
+Cristiano Felicio,-5.03
+Mike Muscala ,-5.04
+Thon Maker,-5.05
+Vince Carter,-5.14
+JaKarr Sampson,-5.19
+Nickeil Alexander-Walker,-5.2
+Ryan Broekhoff,-5.23
+Robin Lopez,-5.27
+Iman Shumpert,-5.27
+Willy Hernangomez,-5.3
+Rodions Kurucs,-5.32
+Sekou Doumbouya,-5.33
+Dennis Smith Jr.,-5.36
+Devontae Cacok,-5.37
+Jerome Robinson,-5.37
+Marco Belinelli,-5.38
+Gary Clark,-5.4
+Tim Frazier,-5.42
+Raul Neto,-5.44
+Grant Williams,-5.46
+Anzejs Pasecniks,-5.48
+Norvel Pelle,-5.48
+Donta Hall,-5.51
+Edmond Sumner,-5.54
+Patrick Patterson,-5.55
+John Konchar,-5.56
+Justin Jackson,-5.56
+Allonzo Trier,-5.58
+Cheick Diallo,-5.61
+Kadeem Allen,-5.62
+Bruno Caboclo ,-5.65
+Kevon Looney ,-5.67
+Alfonzo McKinnie,-5.68
+Terrance Ferguson ,-5.68
+Elie Okobo ,-5.7
+Anthony Tolliver,-5.71
+Noah Vonleh,-5.73
+Allen Crabbe,-5.74
+Evan Turner,-5.75
+Tremont Waters,-5.75
+Matthew Dellavedova,-5.77
+Bruno Fernando,-5.8
+Dwayne Bacon,-5.83
+Matt Thomas,-5.85
+Chris Clemons,-5.91
+Chandler Parsons,-5.94
+Frank Jackson,-5.94
+Jarrell Brantley,-5.95
+Johnathan Williams,-5.97
+Thabo Sefolosha ,-5.98
+Dante Exum ,-6.01
+Jacob Evans III,-6.01
+Yogi Ferrell,-6.02
+Ante Zizic,-6.06
+Marko Guduric,-6.07
+Alen Smailagic,-6.09
+Alen Smailagic,-6.09
+Alen Smailagic,-6.09
+Alen Smailagic,-6.09
+Nicolas Claxton,-6.13
+Semi Ojeleye,-6.15
+Zylan Cheatham,-6.16
+Goga Bitadze ,-6.17
+Rodney McGruder,-6.19
+Justin Wright-Foreman,-6.19
+Treveon Graham,-6.2
+Miye Oni,-6.22
+Chris Silva,-6.3
+Quinn Cook,-6.31
+Ty Jerome,-6.34
+Dzanan Musa,-6.35
+Theo Pinson,-6.36
+Ed Davis,-6.36
+Javonte Green,-6.39
+Joakim Noah,-6.4
+Nassir Little,-6.47
+DaQuan Jeffries,-6.5
+Andre Roberson,-6.51
+Paul Watson,-6.51
+Caleb Swanigan ,-6.59
+DeMarre Carroll,-6.6
+Troy Daniels,-6.66
+Naz Mitrou-Long,-6.72
+Naz Mitrou-Long,-6.72
+Naz Mitrou-Long,-6.72
+Naz Mitrou-Long,-6.72
+Jordan Bell,-6.81
+Jerian Grant,-6.83
+Chasson Randle,-6.84
+Justin Anderson,-6.86
+D.J. Wilson,-6.88
+Jaylen Nowell,-6.96
+Terance Mann,-6.97
+Carsen Edwards,-7.03
+TJ Leaf,-7.06
+Admiral Schofield,-7.09
+Wenyen Gabriel,-7.09
+Udonis Haslem,-7.12
+Adam Mokoka,-7.17
+Lance Thomas,-7.18
+Jared Dudley,-7.19
+Michael Kidd-Gilchrist,-7.22
+Jaylen Hoard,-7.25
+Derrick Walton Jr.,-7.25
+Tyson Chandler,-7.29
+Zach Norvell Jr.,-7.31
+Amir Coffey,-7.32
+Gabe Vincent,-7.37
+Tyrone Wallace,-7.39
+Deonte Burton,-7.48
+Romeo Langford,-7.5
+Rayjon Tucker,-7.57
+BJ Johnson,-7.61
+Oshae Brissett ,-7.78
+Jarrod Uthoff,-7.87
+Joe Chealey,-7.94
+Khyri Thomas,-7.97
+Luc Mbah a Moute,-8
+Devon Hall,-8.02
+Quinndary Weatherspoon,-8.04
+JR Smith,-8.25
+Josh Reaves,-8.31
+Vic Law,-8.54
+Michael Frazier,-8.71
+Josh Gray,-8.99
